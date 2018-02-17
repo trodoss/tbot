@@ -18,3 +18,13 @@ C:\Arduino\GitHub\trodoss\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pa
 C:\Arduino\GitHub\trodoss\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.AssemblyInfo.cs
 C:\Arduino\GitHub\trodoss\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.dll
 C:\Arduino\GitHub\trodoss\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.pdb
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\bin\MCD\Debug\netcoreapp2.0\map-pack.deps.json
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\bin\MCD\Debug\netcoreapp2.0\map-pack.runtimeconfig.json
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\bin\MCD\Debug\netcoreapp2.0\map-pack.runtimeconfig.dev.json
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\bin\MCD\Debug\netcoreapp2.0\map-pack.dll
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\bin\MCD\Debug\netcoreapp2.0\map-pack.pdb
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.csproj.CoreCompileInputs.cache
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.AssemblyInfoInputs.cache
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.AssemblyInfo.cs
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.dll
+C:\Arduino\GitHub\trodoss\tbot\tbot\utils\map-pack\obj\MCD\Debug\netcoreapp2.0\map-pack.pdb

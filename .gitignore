@@ -17,7 +17,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-/utils/map-pack/bin
+bin/
+obj/
 
 # =========================
 # Operating System Files

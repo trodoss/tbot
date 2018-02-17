@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Arduino\\GitHub\\trodoss\\tbot\\utils\\map-pack\\map-pack.csproj",
+      "projectUniqueName": "C:\\Arduino\\GitHub\\trodoss\\tbot\\tbot\\utils\\map-pack\\map-pack.csproj",
       "projectName": "map-pack",
-      "projectPath": "C:\\Arduino\\GitHub\\trodoss\\tbot\\utils\\map-pack\\map-pack.csproj",
+      "projectPath": "C:\\Arduino\\GitHub\\trodoss\\tbot\\tbot\\utils\\map-pack\\map-pack.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Arduino\\GitHub\\trodoss\\tbot\\utils\\map-pack\\obj\\",
+      "outputPath": "C:\\Arduino\\GitHub\\trodoss\\tbot\\tbot\\utils\\map-pack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
